@@ -1,0 +1,14 @@
+Arina Kim	ID001	5236	Finance
+Syaherah	ID002	1011	Accomodation
+Syaherah	ID003	2788	Academic
+Amelia Ain	ID004	1109	Accomodation
+Daniel Lee	ID005	7878	Library
+Ikwan Yusof	ID006	6711	Scheduling
+Zul Hakimi	ID007	2222	Academic
+George Zee	ID008	1353	Accomodation
+Selina Lee	ID009	5896	Finance
+Elisa Tan	ID010	7841	Library
+Charles Lee	ID011	5166	Finance
+Romeo Tan	ID012	2314	Academic
+Krishnan	ID013	5173	Finance
+Muhd Ali	ID014	7362	Library
